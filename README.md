@@ -7,6 +7,7 @@ This exercise is a classic one in development courses. The objective is to devel
 
 The CONWAY sequence is something starting like that :
 
+```
 1
 11
 21
@@ -16,12 +17,14 @@ The CONWAY sequence is something starting like that :
 13112221
 1113213211
 ...
+```
 
 ## Exercise 1: printLevelExtra.py
 This exercise is a litte one. It is just to add the row number of each stage in your CONWAY sequence generated in the 1st exercise.
 
 The CONWAY sequence will be displayed like :
 
+```
 1: 1
 2: 11
 3: 21
@@ -31,3 +34,4 @@ The CONWAY sequence will be displayed like :
 7: 13112221
 8: 1113213211
 ...
+```
